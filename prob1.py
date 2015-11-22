@@ -1,4 +1,5 @@
 # Sum the multiples of 3 and 5 between 1 and 1000
+# https://projecteuler.net/problem=1
 
 def make_3_5_list(upper):
     mult_list = []
